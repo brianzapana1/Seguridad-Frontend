@@ -11,7 +11,7 @@ import BolsaTrabajo from '@/components/egresados/BolsaTrabajo.vue';
 import Egresados from '@/components/egresados/Egresados.vue';
 import Reglas from '@/components/eventos/Reglas.vue';
 import AdmisionBeca from '@/components/becas/AdmisionBeca.vue';
-import Pastoral from '@/components/eventos/Pastoral.vue';
+import Pastoral from '@/components/eventos/pastoral.vue';
 import EventosProfesionales from '@/components/eventos/EventosProfesionales.vue';
 import Contacto from '@/components/pages/Contacto.vue';
 import InfoContacto from '@/components/pages/info-contacto.vue';
